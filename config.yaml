@@ -1,6 +1,6 @@
-baseurl: "https://hugo-connectome.kausalflow.com/" # Controls base URL
+baseurl: "https://garden.arguemore.com/" # Controls base URL
 languageCode: "en-US" # Controls html lang attribute
-title: "Connectome" # Homepage title and page title suffix
+title: "gardenmore" # Homepage title and page title suffix
 paginate: 12 # Number of posts to show before paginating
 theme: "connectome" # to use as default theme
 
@@ -48,12 +48,12 @@ params:
   powered_by: "love" # Optional, controls name display on footer
   hide_author: false # Optional, set true to hide author name on posts
   images: # Suggested, controls default OpenGraph images controls author name display on meta tag
-  github: "kausalflow" # Optional, to display link to github account in menu bar
-  twitter: "" # Optional, to display link to twitter account in menu bar
-  author: "KausalFlow" # Default author name and the name to be shown in the footer
-  editURL: "https://github.com/kausalflow/hugo-connectome-theme-demo/edit/master/content/"
+  github: "arguemore" # Optional, to display link to github account in menu bar
+  twitter: "arguemore" # Optional, to display link to twitter account in menu bar
+  author: "annika" # Default author name and the name to be shown in the footer
+  editURL: "https://github.com/arguemore/gardenmore"
   utterances: # comment system: utterances (https://utteranc.es/) parameters
-    repo: "kausalflow/hugo-connectome-theme-demo"  # repo="[ENTER REPO HERE]", the comments will appear as issues in this repository on github.
+    repo: "arguemore/gardenmore"  # repo="[ENTER REPO HERE]", the comments will appear as issues in this repository on github.
     term: pathname               # issue-term="pathname"
     theme: github-light          # theme="github-light"
   garden:
